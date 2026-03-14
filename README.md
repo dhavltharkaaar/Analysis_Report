@@ -57,8 +57,8 @@ This guide explains how to install **Anaconda Navigator** and activate **Jupyter
 👉 **Conclusion:** 
 Market performance is stronger on **Fear days**, while Greed days still yield profits but with smaller trades, fewer executions, and lower win rates.
 ---
-### Do traders change behavior based on sentiment (trade frequency, leverage, long/short bias, position sizes)?
-![Answer 1 Screenshot](https://github.com/dhavltharkaaar/Analysis_Report/blob/main/images/pivot.PNG)
+### Q2. Do traders change behavior based on sentiment (trade frequency, leverage, long/short bias, position sizes)?
+![Answer 2 Screenshot](https://github.com/dhavltharkaaar/Analysis_Report/blob/main/images/pivot.PNG)
 
 ## Key Insights
 
@@ -85,3 +85,61 @@ Direct **Long → Short** or **Short → Long** transitions contribute relativel
 **Conclusion**  
 Trader behavior appears sentiment-dependent, with bearish trades performing better during fearful markets and profit-taking increasing as markets move into extreme optimism.
 
+---
+## Charts
+
+![Classification](https://github.com/dhavltharkaaar/Analysis_Report/blob/main/images/piechart.PNG)
+
+## Key Insights
+
+**Fear dominates trading activity**  
+Fear accounts for **29.3% of trades**, indicating cautious investor behavior and a tendency for traders to react strongly during uncertain market conditions.
+
+**Bullish sentiment presence**  
+**Greed and Extreme Greed together represent 42.7% of trades**, suggesting an overall **bullish sentiment bias** across the market.
+
+**Low neutral participation**  
+Only **17.8% of trades occur during Neutral sentiment**, implying that most traders operate under **emotionally driven market conditions rather than balanced sentiment**.
+
+**Balanced psychological tension**  
+The distribution between **Fear (39.4%) and Greed (42.7%)** is relatively close, highlighting a **continuous tug-of-war between pessimism and optimism in market psychology**.
+
+---
+![Average PnL by Sentiments](https://github.com/dhavltharkaaar/Analysis_Report/blob/main/images/avgpnlbysentiment.PNG)
+
+## Average PnL by Market Sentiment
+
+The bar chart compares **average Profit and Loss (PnL)** across five market sentiment classifications:
+
+- **Extreme Greed** → Highest average PnL (~68), showing trades are **most profitable in this sentiment regime**.
+- **Fear** → Second highest (~54), indicating **strong profitability despite cautious market sentiment**.
+- **Greed** → Moderate average PnL (~43), **lower than Fear and Extreme Greed**.
+- **Extreme Fear** → Lower average PnL (~35), reflecting **weaker trading performance**.
+- **Neutral** → Similar to Extreme Fear (~34), also among the **least profitable sentiment conditions**.
+
+### Key Takeaway
+
+Profitability tends to be **highest during Extreme Greed and Fear**, while **Neutral and Extreme Fear environments generate the lowest average returns**.
+
+This suggests that **trading opportunities improve when market sentiment becomes polarized**, whereas **balanced or indecisive market conditions tend to produce weaker average profits**.
+
+---
+![Average Trade by Sentiment](http://github.com/dhavltharkaaar/Analysis_Report/blob/main/images/avgtradebysentiment.PNG)
+
+## Average Trade Size by Market Sentiment
+
+The chart compares **average trade size** across different market sentiment conditions:
+
+- **Fear** → Highest average trade size (~7,800), indicating traders commit **larger positions during fearful market conditions**.
+- **Greed** → Second highest (~5,700), showing **strong but slightly smaller commitments compared to Fear**.
+- **Extreme Fear** → Moderate (~5,300), suggesting **cautious yet still meaningful position sizes**.
+- **Neutral** → Lower (~4,800), reflecting **more balanced and moderate trade sizes**.
+- **Extreme Greed** → Smallest average trade size (~3,100), indicating traders tend to **reduce position sizes when optimism becomes excessive**.
+
+### Key Takeaway
+
+Traders tend to **place their largest bets during Fear**, possibly reflecting **higher conviction or opportunistic positioning during downturns**.
+
+In contrast, **Extreme Greed corresponds with smaller trade sizes**, suggesting **greater caution, diversification, or profit protection when markets become overly optimistic**.
+
+Overall, **trade size varies significantly with sentiment**, highlighting how **market emotions influence position sizing decisions**.
