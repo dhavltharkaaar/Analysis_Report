@@ -151,4 +151,17 @@ Traders tend to **place their largest bets during Fear**, possibly reflecting **
 
 In contrast, **Extreme Greed corresponds with smaller trade sizes**, suggesting **greater caution, diversification, or profit protection when markets become overly optimistic**.
 
+
+
+---
+
+
+### Summary
+
+Traders can maximize profitability by:
+- **Aligning positions with market sentiment extremes**
+- **Scaling trade size based on conviction and volatility**
+- **Timing exits to capture peaks in Greed or Fear**
+- **Using risk controls to avoid liquidation during rapid rallies**
+
 Overall, **trade size varies significantly with sentiment**, highlighting how **market emotions influence position sizing decisions**.
