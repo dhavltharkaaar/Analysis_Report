@@ -124,6 +124,7 @@ Profitability tends to be **highest during Extreme Greed and Fear**, while **Neu
 This suggests that **trading opportunities improve when market sentiment becomes polarized**, whereas **balanced or indecisive market conditions tend to produce weaker average profits**.
 
 ---
+
 ![Average Trade by Sentiment](http://github.com/dhavltharkaaar/Analysis_Report/blob/main/images/avgtradebysentiment.PNG)
 
 ## Average Trade Size by Market Sentiment
