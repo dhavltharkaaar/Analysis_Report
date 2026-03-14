@@ -125,7 +125,7 @@ This suggests that **trading opportunities improve when market sentiment becomes
 
 ---
 
-![Average Trade by Sentiment](http://github.com/dhavltharkaaar/Analysis_Report/blob/main/images/avgtradebysentiment.PNG)
+![Average Trade by Sentiment](https://raw.githubusercontent.com/dhavltharkaaar/Analysis_Report/main/images/avgtradebysentiment.PNG)
 
 ## Average Trade Size by Market Sentiment
 
